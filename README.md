@@ -1,1 +1,1 @@
-This repository contains Python projects in Jupyter notebooks regarding the Risk Management.
+This repository contains Quantitative Finance Python projects in Jupyter notebooks.
